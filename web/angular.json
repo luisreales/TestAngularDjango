@@ -23,15 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/boostrap/dist/css/boostrap.min.css",
+              
               "src/styles.css"
             ],
             "scripts": [
               "src/assets/js/custom.js",
-              "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/boostrap/dist/js/boostrap.min.js"
-             
-
+              "node_modules/jquery/dist/jquery.min.js"
             ]
           },
           "configurations": {
@@ -83,8 +80,8 @@
             ],
             "scripts": [
               "src/assets/js/custom.js",
-              "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/boostrap/dist/js/boostrap.min.js"           
+              "node_modules/jquery/dist/jquery.min.js"
+                         
 
             ],
             "assets": [
