@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f58150ce-5caa-40f3-9eee-29e7dfa66d09" name="Default" comment="Modificacion de Initi y Settings para heroku">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/myproject/__init__.py" afterPath="$PROJECT_DIR$/myproject/__init__.py" />
       <change beforePath="$PROJECT_DIR$/myproject/settings.py" afterPath="$PROJECT_DIR$/myproject/settings.py" />
     </list>
